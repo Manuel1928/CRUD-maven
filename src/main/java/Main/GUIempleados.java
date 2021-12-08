@@ -11,7 +11,6 @@ import javax.swing.table.DefaultTableModel;
 import org.uv.data.DaoGeneral;
 import org.uv.data.empleado;
 import org.uv.data.empresaDao;
-
 /**
  *
  * @author judit
